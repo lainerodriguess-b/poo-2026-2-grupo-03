@@ -41,4 +41,5 @@ O projeto foi desenvolvido em branches individuais e integrado
 - Exceções
 - Interface gráfica
 - Sistemas de turno que só acaba quando
-  a vida do chefe chega a 0. 
+  a vida do chefe chega a 0.
+- Sistema que impede o mago de atacar se sua mana for menor que 10
